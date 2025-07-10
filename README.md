@@ -23,19 +23,19 @@ Como profissional da área em busca de aprimoramento constante, este espaço ref
 
 ## 📂 Estrutura do Repositório
 
-O repositório é organizado de forma modular, com cada diretório principal representando um conjunto de exercícios ou um mini-projeto. A estrutura busca facilitar a navegação e a compreensão do conteúdo. **Cada pasta de teste (`teste_0X`) contém um `README.md` próprio com a descrição detalhada do problema, a abordagem utilizada, os resultados e as tecnologias específicas.**
+O repositório é organizado de forma modular, com cada diretório principal representando um conjunto de exercícios ou um mini-projeto. A estrutura busca facilitar a navegação e a compreensão do conteúdo. **Cada pasta de desafio_pratico (`desafio_pratico_X`) contém um `README.md` próprio com a descrição detalhada do problema, a abordagem utilizada, os resultados e as tecnologias específicas.**
 
 .
 ├── README.md
-├── teste_02/
+├── desafio_pratico_2/
 │   ├── data/
 │   ├── notebook/
 │   └── README.md
-├── teste_03/
+├── desafio_pratico_3/
 │   ├── data/
 │   ├── notebook/
 │   └── README.md
-├── teste_04/
+├── desafio_pratico_4/
 │   ├── data/
 │   ├── notebook/
 │   └── README.md
@@ -48,11 +48,11 @@ O repositório é organizado de forma modular, com cada diretório principal rep
 ### Detalhamento dos Diretórios e Arquivos:
 
 * **`README.md` (Este arquivo):** Fornece uma visão geral do propósito do repositório, sua estrutura e os tópicos abrangidos.
-* **Diretórios `teste_0X/`**: Cada um representa um conjunto de exercícios, simulado ou um mini-projeto do curso.
-    * **`data/`**: Subpasta que armazena os dados brutos ou pré-processados utilizados no respectivo teste/projeto. Idealmente, para dados muito grandes, o Git LFS (Large File Storage) ou DVC (Data Version Control) seriam usados, mas para estudos, mantê-los aqui (se forem pequenos) é prático.
+* **Diretórios `desafio_pratico_X/`**: Cada um representa um conjunto de exercícios, simulado ou um mini-projeto do curso.
+    * **`data/`**: Subpasta que armazena os dados brutos ou pré-processados utilizados no respectivo desafio_pratico/rojeto. Idealmente, para dados muito grandes, o Git LFS (Large File Storage) ou DVC (Data Version Control) seriam usados, mas para estudos, mantê-los aqui (se forem pequenos) é prático.
     * **`notebook/`**: Contém o coração da análise, seja um script Python (`.py`) ou um Notebook Jupyter (`.ipynb`). É fundamental que o código esteja bem comentado e que o fluxo da análise seja claro.
-    * **`README.md` (dentro de cada `teste_0X/`):** Este arquivo é **crucial** e contém a documentação específica para aquele teste. Ele deve descrever o problema/desafio, a abordagem utilizada, os resultados-chave/insights e as tecnologias específicas aplicadas.
-* **`recursos_e_anotacoes_gerais/`**: (Opcional) Para anotações e recursos gerais que não se encaixam em um teste específico, mas que são importantes para o seu aprendizado.
+    * **`README.md` (dentro de cada `desafio_pratico_X/`):** Este arquivo é **crucial** e contém a documentação específica para aquele desafio_pratico.Ele deve descrever o problema/desafio, a abordagem utilizada, os resultados-chave/insights e as tecnologias específicas aplicadas.
+* **`recursos_e_anotacoes_gerais/`**: (Opcional) Para anotações e recursos gerais que não se encaixam em um desafio_pratico specífico, mas que são importantes para o seu aprendizado.
 
 ---
 
