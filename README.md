@@ -72,7 +72,7 @@ Este repositório explora (e continuará a explorar) uma ampla gama de tópicos 
     * Modelagem de Dados Básica
 * **Estatística e Probabilidade:**
     * Estatística Descritiva e Inferencial
-    * desafio_praticosde Hipóteses (t-test, ANOVA, Qui-quadrado)
+    * Testes de Hipóteses (t-test, ANOVA, Qui-quadrado)
     * Regressão e Correlação
     * Conceitos de Probabilidade para Modelagem
 * **Machine Learning:**
