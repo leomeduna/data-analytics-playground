@@ -81,6 +81,37 @@ summary.head(3)
 
 # %%
 
-## To-do:
+## Resultados:
 # Analisar os principais desafios urbanos e sociais que essas cidades podem enfrentar com base nos dados disponíveis;
-# Proposta de Políticas Públicas; 
+# aumento da pobreza, exclusão social, violência, precariedade da infraestrutura e dificuldade de acesso a serviços básicos;
+
+# Desafios Urbanos:
+
+    #Desigualdade Espacial: A concentração de renda e oportunidades em certas áreas resulta em segregação urbana, com acesso desigual a serviços e infraestrutura.
+    #Precariedade da Habitação: A falta de moradias adequadas e a ocupação de áreas de risco aumentam a vulnerabilidade a desastres naturais e criam condições insalubres.
+    #Transporte Público Ineficiente: A falta de investimento no transporte público dificulta a mobilidade, especialmente para a população de baixa renda.
+    #Infraestrutura Insuficiente: A escassez de saneamento básico, água potável e energia elétrica impacta a qualidade de vida, a saúde e o desenvolvimento econômico.
+    #Violência Urbana: A desigualdade social e a falta de oportunidades contribuem para altas taxas de criminalidade e violência, afetando a segurança e o bem-estar.
+
+#Desafios Sociais:
+
+    #Pobreza e Exclusão Social: O desemprego e o baixo PIB per capita levam à pobreza e exclusão, dificultando o acesso a serviços essenciais como educação, saúde e alimentação.
+    #Desigualdade de Oportunidades: A falta de acesso à educação de qualidade e a dificuldade de conseguir emprego perpetuam um ciclo de pobreza intergeracional.
+    #Precarização do Trabalho: A escassez de oportunidades resulta em empregos informais e salários baixos, que não garantem uma vida digna.
+    #Problemas de Saúde: A falta de acesso a serviços de saúde, saneamento e alimentação adequada contribui para o aumento de doenças e problemas de saúde pública.
+    #Desigualdade de Gênero e Raça: Mulheres, negros e outras minorias enfrentam discriminação intensificada no mercado de trabalho e na sociedade.
+    #Desmotivação e Desinteresse: A falta de oportunidades e a desigualdade podem gerar apatia e desinteresse na participação cívica, dificultando a busca por soluções.   
+
+# Proposta de Políticas Públicas -
+
+# Para combater os desafios urbanos e sociais de um município com alta desigualdade, proponho três pilares de políticas públicas:
+
+#1. Investimento Social e Produtivo
+        #Foco em reduzir a pobreza e a exclusão através de programas de transferência de renda, capacitação profissional e fomento ao empreendedorismo, gerando autonomia e novas oportunidades.
+
+#2. Urbanização Integrada e Infraestrutura
+        #Visa reduzir a desigualdade espacial por meio da regularização fundiária, investimentos em saneamento, água, energia e aprimoramento do transporte público, melhorando as condições de vida e o acesso a serviços.
+
+#3. Fortalecimento da Educação e Saúde Pública
+        #Busca romper o ciclo da pobreza garantindo acesso universal e de qualidade à educação — com escolas melhores e programas de reforço — e à saúde, com atenção primária expandida, prevenção de doenças e acesso facilitado a tratamentos.
+ 
