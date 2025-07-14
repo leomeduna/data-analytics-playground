@@ -87,3 +87,40 @@ print(df_2['IMC'].mean())
 print(df_2['IMC'].median())
 print(df_2['IMC'].std())
 
+# %%
+#Em suma, as distribuições de altura e peso não mostram uma simetria perfeita nem concentração acentuada em faixas estreitas. 
+# A altura tende a ser mais simétrica e dispersa, enquanto o peso é menos simétrico e mais espalhado, com múltiplos picos, 
+# em suas respectivas faixas.
+
+# %%
+sns.histplot(
+    data=df,
+    x='IMC',
+    color='blue'
+)
+plt.title("Histograma de IMC")
+plt.ylabel("Frequência")
+plt.grid(True)
+plt.show()
+# %%
+sns.histplot(
+    data=df_1,
+    x='IMC',
+    color='blue'
+)
+plt.title("Histograma de IMC")
+plt.ylabel("Frequência")
+plt.grid(True)
+plt.show()
+
+# %%
+
+sns.histplot(
+    data=df_2,
+    x='IMC',
+    color='blue'
+)
+plt.title("Histograma de IMC")
+plt.ylabel("Frequência")
+plt.grid(True)
+plt.show()
